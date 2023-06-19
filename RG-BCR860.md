@@ -1,5 +1,9 @@
 The RG-BCR860 router has command execution vulnerabilities
 
+official website:https://www.ruijie.com.cn/
+
+version:RG-BCR860
+
 1. Log in to the background
 
 ![(1)](https://github.com/RCEraser/cve/assets/131632691/56c7a3c5-a227-45ef-844d-e937a875dd01)
